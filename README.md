@@ -1,6 +1,6 @@
 # Saymanhwa
 
-Paperback **0.9** extension for [saymanhwa.net](https://saymanhwa.net). Adult / pornhwa only.
+Paperback **0.9** extension for [saymanhwa.net](https://saymanhwa.net). Adt only.
 
 This repo follows the official Paperback 0.9 source layout used by Inkdex and similar registries: TypeScript source under `src/<Id>/` with `pbconfig.ts`, `main.ts`, and `static/icon.png`, bundled by `@paperback/toolchain` `1.0.0-alpha.92`.
 
