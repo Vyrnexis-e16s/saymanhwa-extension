@@ -1,0 +1,8 @@
+.DS_Store
+/node_modules
+/bundles
+.env
+*.log
+.pbx/
+tsconfig.tsbuildinfo
+node_modules/.cache/

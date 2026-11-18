@@ -1,0 +1,24 @@
+{
+  "name": "saymanhwa-extension",
+  "repositoryName": "Saymanhwa",
+  "repositoryDescription": "Adult pornhwa source for saymanhwa.net on Paperback 0.9.",
+  "description": "Adult pornhwa source for saymanhwa.net on Paperback 0.9.",
+  "private": true,
+  "type": "module",
+  "license": "GPL-3.0-or-later",
+  "engines": {
+    "node": ">=24"
+  },
+  "scripts": {
+    "tsc": "tsc",
+    "bundle": "paperback-cli bundle",
+    "serve": "paperback-cli serve",
+    "dev": "paperback-cli serve --watch"
+  },
+  "devDependencies": {
+    "@paperback/toolchain": "1.0.0-alpha.92",
+    "@paperback/types": "1.0.0-alpha.92",
+    "cheerio": "^1.2.0",
+    "typescript": "^5.9.3"
+  }
+}
